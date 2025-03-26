@@ -1,4 +1,4 @@
 # New Project
 
 This project was created from local system .
-created by Divyanshu Anand.
+Created by Divyanshu Anand.
